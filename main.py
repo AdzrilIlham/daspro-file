@@ -2,7 +2,7 @@
 #NIM : 2401263
 #Kelas : RPL-1C
 
-a = 1
-b = 2
+a = 10
+b = 20
 
 print (a + b)
